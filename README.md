@@ -1,4 +1,4 @@
-# Coursework 1 Report
+# Gaussian Processes
 
 ![Report page 2](README.assets/reportcw1-page-02.png)
 
